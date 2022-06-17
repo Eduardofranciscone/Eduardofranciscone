@@ -1,5 +1,7 @@
 ### Bem vindos ao meu Perfil Eu sou O Eduardo 👋
 
+eu SOU DESENVOLVEDOR WEB FRONT END  tenho conhecimento nas tecnologias HTML , CSS e  JavaScript  Atualmente desenvolvo alguns projetos pessoais e trabalho com freelancers.
+
 - 🔭 Hoje trabalho com alguns Freelancers
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: eduardofranciscone7@gmail.com
