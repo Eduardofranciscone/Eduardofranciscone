@@ -1,6 +1,6 @@
 ### Bem vindos ao meu Perfil Eu sou O Eduardo 👋
 
-Eu SOU DESENVOLVEDOR WEB FRONT END  tenho conhecimento nas tecnologias HTML , CSS e  JavaScript  Atualmente desenvolvo alguns projetos pessoais e trabalho com freelancers.
+Eu SOU DESENVOLVEDOR WEB FRONT END  tenho conhecimento nas tecnologias HTML , CSS e  JavaScript  Atualmente desenvolvo alguns projetos pessoais e estudando gradativamente conforme o tempo passa.
 
 - 🔭 Atualmente desenvolvo projetos pessoais para ampliar meus conhecimentos
 - 🌱 Estudando JavaScript
