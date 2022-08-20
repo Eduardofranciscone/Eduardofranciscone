@@ -5,7 +5,6 @@ Eu SOU DESENVOLVEDOR WEB FRONT END  tenho conhecimento nas tecnologias HTML , CS
 - 🔭 Atualmente desenvolvo projetos pessoais para ampliar meus conhecimentos
 - 🌱 Estudando JavaScript
 - 📫 Contate-me: eduardofranciscone7@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Eduardofranciscone">
