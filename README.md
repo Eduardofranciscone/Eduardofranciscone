@@ -1,9 +1,9 @@
 ### Bem vindos ao meu Perfil Eu sou O Eduardo 👋
 
-Sou DESENVOLVEDOR WEB Full Stack tenho conhecimento nas tecnologias HTML , CSS, JavaScript,Bootstrap,Firebase,NodeJs Atualmente desenvolvo alguns projetos pessoais e estou estudando NodeJS.
+Sou DESENVOLVEDOR WEB Full Stack tenho conhecimento nas tecnologias HTML , CSS, JavaScript,Bootstrap,Firebase,NodeJs, MongoDb Atualmente desenvolvo alguns projetos pessoais e estou estudando NodeJS e MongoDb.
 
 - 🔭 Atualmente desenvolvo projetos pessoais para ampliar meus conhecimentos
-- 🌱 Estudando JavaScript e Nodejs.
+- 🌱 Estudando JavaScript , Nodejs e MongoDb.
 - 📫 Contate-me: eduardofranciscone7@gmail.com
 
 <div align="center">
