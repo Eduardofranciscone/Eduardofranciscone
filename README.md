@@ -1,5 +1,7 @@
 ### Bem vindos ao meu Perfil Eu sou O Eduardo 👋
 
+##  1º Período da faculdade de Ciência da computação.
+
 Sou DESENVOLVEDOR WEB Full Stack tenho conhecimento nas tecnologias HTML , CSS, JavaScript,Bootstrap,Firebase,NodeJs, MongoDb Atualmente desenvolvo alguns projetos pessoais e estou estudando NodeJS e MongoDb.
 
 - 🔭 Atualmente desenvolvo projetos pessoais para ampliar meus conhecimentos
