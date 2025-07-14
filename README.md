@@ -1,6 +1,6 @@
 ### Bem vindos ao meu Perfil Eu sou O Eduardo 👋
 
-##  1º Período da faculdade de Ciência da computação.
+##  4º Período da faculdade de Ciência da computação.
 
 Sou desenvolvedor de software, tenho conhecimento nas tecnologias JavaScript,Bootstrap, Python e C, Atualmente desenvolvo alguns projetos pessoais e estou estudando Python.
 
@@ -20,6 +20,7 @@ Sou desenvolvedor de software, tenho conhecimento nas tecnologias JavaScript,Boo
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     
 <!--   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
     
