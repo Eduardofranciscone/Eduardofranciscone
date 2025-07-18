@@ -5,7 +5,7 @@
 Sou desenvolvedor de software, tenho conhecimento nas tecnologias JavaScript,Bootstrap, Python e C, Atualmente desenvolvo alguns projetos pessoais e estou estudando Python.
 
 - 🔭 Atualmente desenvolvo projetos pessoais para ampliar meus conhecimentos
-- 🌱 Estudando JavaScript , e Python.
+- 🌱 Estudando JavaScript  e Python.
 - 📫 Contate-me: eduardofranciscone7@gmail.com
 
 <div align="center">
